@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Lưu Đức Lộc</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on Lưu Đức Lộc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript: Giới thiệu một số câu lệnh console hữu ích</title>
+      <link>http://localhost:1313/posts/console/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/console/</guid>
+      <description>&lt;p&gt;Trong JavaScript, &lt;code&gt;console&lt;/code&gt; là một đối tượng rất hữu ích để gỡ lỗi và kiểm tra mã. Dưới đây là một số câu lệnh &lt;code&gt;console&lt;/code&gt; phổ biến và hữu ích:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-consolelog&#34;&gt;1. &lt;code&gt;console.log()&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;console.log()&lt;/code&gt; được sử dụng để in thông tin ra console. Đây là câu lệnh phổ biến nhất để gỡ lỗi.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello, world!&amp;#39;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-consoleerror&#34;&gt;2. &lt;code&gt;console.error()&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;console.error()&lt;/code&gt; được sử dụng để in thông báo lỗi ra console.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;error&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;This is an error message&amp;#39;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-consolewarn&#34;&gt;3. &lt;code&gt;console.warn()&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;console.warn()&lt;/code&gt; được sử dụng để in cảnh báo ra console.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

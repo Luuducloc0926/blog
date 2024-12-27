@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Lưu Đức Lộc</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Lưu Đức Lộc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm quen với OOP trong Java</title>
+      <link>http://localhost:1313/posts/oop-java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/oop-java/</guid>
+      <description>&lt;h3 id=&#34;oop-là-gì&#34;&gt;OOP là gì?&lt;/h3&gt;&#xA;&lt;p&gt;Lập trình hướng đối tượng (Object-Oriented Programming - OOP) là một mô hình lập trình dựa trên khái niệm &amp;ldquo;đối tượng&amp;rdquo; (objects). Trong Java, OOP là cốt lõi, giúp bạn mô hình hóa các đối tượng trong thế giới thực vào chương trình.&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-nguyên-lý-của-oop-trong-java&#34;&gt;4 nguyên lý của OOP trong Java&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Encapsulation (Đóng gói)&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dữ liệu (fields) và phương thức (methods) được đóng gói trong một class.&lt;/li&gt;&#xA;&lt;li&gt;Dữ liệu được bảo vệ bởi các từ khóa như &lt;code&gt;private&lt;/code&gt;, &lt;code&gt;protected&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ví dụ&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài Học Cơ Bản Về Java</title>
+      <link>http://localhost:1313/posts/bai-hoc-co-ban-ve-java/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bai-hoc-co-ban-ve-java/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng phổ biến.&lt;br&gt;&#xA;Dưới đây là ví dụ về chương trình Java đầu tiên:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Xin chào thế giới!&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

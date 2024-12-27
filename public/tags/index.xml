@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lưu Đức Lộc</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Lưu Đức Lộc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OOP</title>
+      <link>http://localhost:1313/tags/oop/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cá Nhân</title>
+      <link>http://localhost:1313/tags/c%C3%A1-nh%C3%A2n/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/c%C3%A1-nh%C3%A2n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chia Sẻ</title>
+      <link>http://localhost:1313/tags/chia-s%E1%BA%BB/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chia-s%E1%BA%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java &amp; JavaScript</title>
+      <link>http://localhost:1313/tags/java--javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/java--javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lập Trình</title>
+      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

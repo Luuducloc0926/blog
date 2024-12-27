@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java &amp; JavaScript on Lưu Đức Lộc</title>
+    <link>http://localhost:1313/tags/java--javascript/</link>
+    <description>Recent content in Java &amp; JavaScript on Lưu Đức Lộc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java--javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java so với JavaScript. Cái nào là lựa chọn tốt nhất cho việc học</title>
+      <link>http://localhost:1313/posts/java-vs-javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-vs-javascript/</guid>
+      <description>&lt;p&gt;Nó giống như Java và JavaScript, các ngôn ngữ lập trình chắc chắn sẽ đọ sức với nhau mãi mãi. Nó bắt đầu với cái tên. JavaScript chắc chắn sẽ bị nhầm lẫn vĩnh viễn như một số phần mở rộng cho Java, và thực sự nó bị nhầm lẫn với Java rất nhiều. Cho đến tận ngày nay, vào năm 2023. Tất nhiên, tại CodeGym, chúng tôi mạo hiểm hy vọng rằng những khán giả đáng kính của chúng tôi đủ thành thạo để nhận thức rõ rằng Java và JavaScript là hai ngôn ngữ lập trình khác nhau. Mặc dù điều này vẫn chưa loại bỏ Java và JavaScript. Với hơn 7 triệu và 12 triệu nhà phát triển trên toàn thế giới, hai ngôn ngữ này cạnh tranh với nhau (và với Python là ứng cử viên thứ ba) cho danh hiệu ngôn ngữ lập trình được sử dụng nhiều nhất và có nhu cầu cao trên thế giới.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

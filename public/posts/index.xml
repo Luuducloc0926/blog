@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lưu Đức Lộc</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Lưu Đức Lộc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm quen với OOP trong Java</title>
+      <link>http://localhost:1313/posts/oop-java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/oop-java/</guid>
+      <description>&lt;h3 id=&#34;oop-là-gì&#34;&gt;OOP là gì?&lt;/h3&gt;&#xA;&lt;p&gt;Lập trình hướng đối tượng (Object-Oriented Programming - OOP) là một mô hình lập trình dựa trên khái niệm &amp;ldquo;đối tượng&amp;rdquo; (objects). Trong Java, OOP là cốt lõi, giúp bạn mô hình hóa các đối tượng trong thế giới thực vào chương trình.&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-nguyên-lý-của-oop-trong-java&#34;&gt;4 nguyên lý của OOP trong Java&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Encapsulation (Đóng gói)&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dữ liệu (fields) và phương thức (methods) được đóng gói trong một class.&lt;/li&gt;&#xA;&lt;li&gt;Dữ liệu được bảo vệ bởi các từ khóa như &lt;code&gt;private&lt;/code&gt;, &lt;code&gt;protected&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ví dụ&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài Học Cơ Bản Về Java</title>
+      <link>http://localhost:1313/posts/bai-hoc-co-ban-ve-java/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bai-hoc-co-ban-ve-java/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng phổ biến.&lt;br&gt;&#xA;Dưới đây là ví dụ về chương trình Java đầu tiên:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Xin chào thế giới!&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Giới thiệu về tôi</title>
+      <link>http://localhost:1313/posts/aboutme/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aboutme/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-về-tôi&#34;&gt;Giới thiệu về tôi&lt;/h2&gt;&#xA;&lt;p&gt;Chào mọi người, mình là &lt;strong&gt;Lưu Đức Lộc&lt;/strong&gt;. Mình sinh ra và lớn lên tại &lt;strong&gt;TP.Hồ Chí Minh&lt;/strong&gt;. Hiện tại, mình đang là sinh viên trường &lt;strong&gt;Đại học Công Nghệ TP.Hồ Chí Minh&lt;/strong&gt; .&#xA;Tôi bắt đầu đam mê công nghệ từ khi còn là một học sinh, khi tôi có cơ hội tiếp xúc với máy tính lần đầu tiên. Từ đó, tôi đã quyết định học hỏi và nghiên cứu sâu về các lĩnh vực như lập trình, mạng máy tính và phát triển phần mềm. Hành trình của tôi luôn gắn liền với việc tìm tòi, học hỏi những kiến thức mới và cải thiện bản thân qua từng dự án và thử thách.&#xA;Mình rất đam mê đá banh và đọc sách. Trong công việc, mình luôn cố gắng &lt;strong&gt;học hỏi&lt;/strong&gt; và &lt;strong&gt;cải thiện Tiếng Anh&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java so với JavaScript. Cái nào là lựa chọn tốt nhất cho việc học</title>
+      <link>http://localhost:1313/posts/java-vs-javascript/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-vs-javascript/</guid>
+      <description>&lt;p&gt;Nó giống như Java và JavaScript, các ngôn ngữ lập trình chắc chắn sẽ đọ sức với nhau mãi mãi. Nó bắt đầu với cái tên. JavaScript chắc chắn sẽ bị nhầm lẫn vĩnh viễn như một số phần mở rộng cho Java, và thực sự nó bị nhầm lẫn với Java rất nhiều. Cho đến tận ngày nay, vào năm 2023. Tất nhiên, tại CodeGym, chúng tôi mạo hiểm hy vọng rằng những khán giả đáng kính của chúng tôi đủ thành thạo để nhận thức rõ rằng Java và JavaScript là hai ngôn ngữ lập trình khác nhau. Mặc dù điều này vẫn chưa loại bỏ Java và JavaScript. Với hơn 7 triệu và 12 triệu nhà phát triển trên toàn thế giới, hai ngôn ngữ này cạnh tranh với nhau (và với Python là ứng cử viên thứ ba) cho danh hiệu ngôn ngữ lập trình được sử dụng nhiều nhất và có nhu cầu cao trên thế giới.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript: Giới thiệu một số câu lệnh console hữu ích</title>
+      <link>http://localhost:1313/posts/console/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/console/</guid>
+      <description>&lt;p&gt;Trong JavaScript, &lt;code&gt;console&lt;/code&gt; là một đối tượng rất hữu ích để gỡ lỗi và kiểm tra mã. Dưới đây là một số câu lệnh &lt;code&gt;console&lt;/code&gt; phổ biến và hữu ích:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-consolelog&#34;&gt;1. &lt;code&gt;console.log()&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;console.log()&lt;/code&gt; được sử dụng để in thông tin ra console. Đây là câu lệnh phổ biến nhất để gỡ lỗi.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello, world!&amp;#39;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-consoleerror&#34;&gt;2. &lt;code&gt;console.error()&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;console.error()&lt;/code&gt; được sử dụng để in thông báo lỗi ra console.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;error&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;This is an error message&amp;#39;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-consolewarn&#34;&gt;3. &lt;code&gt;console.warn()&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;console.warn()&lt;/code&gt; được sử dụng để in cảnh báo ra console.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
