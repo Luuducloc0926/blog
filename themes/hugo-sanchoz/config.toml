@@ -1,0 +1,28 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.128.0"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+    [params]
+  # Avatar và mô tả cá nhân
+  avatar = "images/aboutme.jpg" # Đường dẫn tương đối tới ảnh đại diện
+  description = "Xin chào, mình là Lưu Đức Lộc, sinh viên ngành Công nghệ Thông tin tại Đại học Công nghệ TP.Hồ Chí Minh. Đây là blog chia sẻ về lập trình Java và JavaScript."
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "brand-facebook"
+    name = "Facebook"
+    url = "https://www.facebook.com/ucloc.986438/" # Đổi "your-profile" thành ID hoặc username Facebook của bạn
+  [[params.social]]
+    icon = "brand-github"
+    name = "Github"
+    url = "https://github.com/Luuducloc0926"
